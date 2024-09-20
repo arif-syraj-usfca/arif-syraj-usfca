@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Master's student in Computer Science at the University of San Francisco graduating in December 2025. My main interests lie in backend engineering, cloud engineering, and working with generative AI.
+
 <!--
 **arif-syraj-usfca/arif-syraj-usfca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
